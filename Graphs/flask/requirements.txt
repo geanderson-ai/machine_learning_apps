@@ -226,7 +226,7 @@ tweepy==3.6.0
 twitter==1.18.0
 typing==3.6.2
 uiautomator==0.3.2
-ujson==1.35
+ujson==5.2.0
 unicodecsv==0.14.1
 urllib3==1.22
 urlopen==1.0.0
